@@ -24,7 +24,8 @@ _The first time opening the website, it will take a while to load due to Render'
 - Express
 - ReactJs
 - Redux
-- MongoDb
+- MongoDB
+- Mongoose
 - Bootstrap
 - Axios
 - Bcrypt
